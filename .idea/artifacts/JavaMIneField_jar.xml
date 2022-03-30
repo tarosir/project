@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JavaMIneField:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaMIneField_jar</output-path>
+    <root id="archive" name="JavaMIneField.jar">
+      <element id="module-output" name="JavaMIneField" />
+    </root>
+  </artifact>
+</component>
